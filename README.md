@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Brayan Arrieta's github stats](https://github-readme-stats.vercel.app/api?username=brayanarrieta)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanarrieta)](https://github.com/brayanarrieta/github-readme-stats)
