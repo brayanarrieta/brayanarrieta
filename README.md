@@ -11,6 +11,6 @@ I'm a software engineer with capabilities for doing application design and softw
 
 #### Analitics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanarrieta)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanarrieta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanarrieta&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanarrieta&show_icons=true&count_private=true&include_all_commits=true)
