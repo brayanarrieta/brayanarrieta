@@ -5,6 +5,7 @@ I'm a software engineer with capabilities for doing application design and softw
 #### Articles
 1. [Integrate ESLint with your React project (javascript)](https://dev.to/brayanarrieta/integrate-eslint-with-your-react-project-javascript-29p)
 2. [Most Awesome Hooks for your React project](https://dev.to/brayanarrieta/most-awesome-hooks-for-your-react-project-elo)
+3. [Integrate Commitizen with your node.js project](https://dev.to/brayanarrieta/integrate-commitizen-with-your-node-js-project-53kf)
 
 ### Libraries
 1. [react-dom-id](https://www.npmjs.com/package/react-dom-id)
